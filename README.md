@@ -1,1 +1,1 @@
-# Movie-Picker
+# Movie-Picker (/Movie Mania Selector)
